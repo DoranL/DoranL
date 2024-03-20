@@ -1,8 +1,8 @@
 <H1>Here 👋</H1>
-<H1>DreamCatcher (3D)</H1>
+<H1>DreamCatcher(3D) - 다크소울 장르(우수상 수상)</H1>
 <H3>https://github.com/DoranL/DreamCatcher</H3>
 <H4>유투브: https://youtu.be/vKTOGqLspRM</H4>
-<H1>Curse Of Adults(3D)</H1>
+<H1>Curse Of Adults - 숨바꼭질 게임</H1>
 <H3>https://github.com/DoranL/Curse_Of_Adults</H3>
 <H4>유투브: https://youtu.be/D1twEBpX4lY</H4>
 <H1>블로그</H1>
