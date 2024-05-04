@@ -5,7 +5,9 @@
 <H1>Curse Of Adults - 숨바꼭질 게임</H1>
 <H3>https://github.com/DoranL/Curse_Of_Adults</H3>
 <H4>유투브: https://youtu.be/D1twEBpX4lY</H4>
-<H1>게임 메모장</H1>
+<H1>DirectX 11</H1>
+<H4>유투브: https://youtu.be/cVu2mimFhDU</H4>
+<H1>메모장</H1>
 <H3>https://doran1.notion.site/DreamCatcher-68eab6c5b6f64ab8b8238287a163e573?pvs=4</H3>
 <!--
 **DoranL/DoranL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
