@@ -3,7 +3,7 @@
 <H3>https://github.com/DoranL/DreamCatcher</H3>
 <H4>유투브: https://youtu.be/vKTOGqLspRM</H4>
 <H1>Curse Of Adults - 숨바꼭질 게임</H1>
-<H3>https://github.com/DoranL/Curse_Of_Adults</H3>
+//<H3>https://github.com/DoranL/Curse_Of_Adults</H3>
 <H4>유투브: https://youtu.be/D1twEBpX4lY</H4>
 <H1>DirectX 11</H1>
 <H4>유투브: https://youtu.be/cVu2mimFhDU</H4>
